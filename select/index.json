@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "sabotage",
+  "base_artist": "Natalie Jane",
+  "createdAt": "2026-03-19T10:27:06.756261Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Paul van Dyk",
+      "has_synced": false,
+      "path": "select/01_Sabotage_Paul_van_Dyk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "self sabotage",
+      "artist": "ericdoa",
+      "has_synced": true,
+      "path": "select/02_self_sabotage_ericdoa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Habits (Stay High) - Hippie Sabotage Remix",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/03_Habits_(Stay_High)_-_Hippie_Sabotage_Remix_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Habits (Stay High) [Hippie Sabotage Remix]",
+      "artist": "Tove Lo",
+      "has_synced": true,
+      "path": "select/04_Habits_(Stay_High)_[Hippie_Sabotage_Remix]_Tove_Lo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/05_Sabotage_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/06_Sabotage_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Counter Sabotage",
+      "artist": "Soulfly",
+      "has_synced": true,
+      "path": "select/07_Counter_Sabotage_Soulfly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sabotage Is Sex",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/08_Sabotage_Is_Sex_Ministry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Every Pain Hurts (Sabotage Q.C.Q.C. remix)",
+      "artist": "Lacrimosa",
+      "has_synced": false,
+      "path": "select/09_Not_Every_Pain_Hurts_(Sabotage_Q.C.Q.C._remix)_Lacrimosa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/10_Sabotage_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "self sabotage",
+      "artist": "Maggie Lindemann",
+      "has_synced": true,
+      "path": "select/11_self_sabotage_Maggie_Lindemann.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/12_Sabotage_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sabotage (live)",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/13_Sabotage_(live)_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/14_Sabotage_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sabotage",
+      "artist": "Cancer Bats",
+      "has_synced": false,
+      "path": "select/15_Sabotage_Cancer_Bats.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sabotage (Remastered 2009)",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/16_Sabotage_(Remastered_2009)_Beastie_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sabotage",
+      "artist": "Natalie Jane",
+      "has_synced": false,
+      "path": "select/pl_01_sabotage_Natalie_Jane.txt"
+    }
+  ]
+}
